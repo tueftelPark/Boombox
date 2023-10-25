@@ -4,7 +4,7 @@
 
 
 <div style="text-align:center;">
-  <img src="Boombox-3.jpg" alt="Beispiel">
+  <img src="Boombox-3.jpg" alt="Boombox">
 </div>
 
 
